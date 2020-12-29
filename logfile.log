@@ -1,0 +1,44 @@
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-19T12:07:20.564Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-12-19T12:07:20.614Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-21T06:44:47.036Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-12-21T06:44:47.087Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-22T06:42:09.395Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-12-22T06:42:09.443Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-22T10:56:52.592Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-12-22T10:56:52.629Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-23T07:24:38.005Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-12-23T07:24:38.079Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-23T09:17:50.334Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-12-23T09:17:50.369Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T20:18:33.724Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-12-29T20:18:33.806Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-30T02:06:10.596Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-12-30T02:06:10.663Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-30T04:38:39.357Z"}
+{"level":"info","message":"Connected to mongodb://localhost/vidly...","timestamp":"2020-12-30T04:38:39.594Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T18:55:16.844Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T18:55:56.906Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T18:59:35.746Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:01:43.665Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:02:47.732Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:03:41.203Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:03:49.731Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:05:23.463Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:19:40.330Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:19:47.198Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:26:39.658Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:26:42.248Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:26:47.028Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:27:01.136Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:30:21.348Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:30:29.219Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:31:36.575Z"}
+{"level":"info","message":"Connected to mongodb+srv://aftabfalak:aftab123@devconnector-koebl.mongodb.net/test?retryWrites=true&w=majority...","timestamp":"2020-12-29T19:31:37.911Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:34:35.346Z"}
+{"level":"info","message":"Connected to mongodb+srv://aftabfalak:aftab123@devconnector-koebl.mongodb.net/test?retryWrites=true&w=majority...","timestamp":"2020-12-29T19:34:36.660Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:35:44.533Z"}
+{"level":"info","message":"Connected to mongodb+srv://aftabfalak:aftab123@devconnector-koebl.mongodb.net/test?retryWrites=true&w=majority...","timestamp":"2020-12-29T19:35:46.072Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:35:52.048Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:36:49.002Z"}
+{"level":"info","message":"Listening on port 3900...","timestamp":"2020-12-29T19:37:07.971Z"}
+{"level":"info","message":"Connected to mongodb+srv://aftabfalak:aftab123@devconnector-koebl.mongodb.net/test?retryWrites=true&w=majority...","timestamp":"2020-12-29T19:37:09.283Z"}

@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mongodb+srv://aftabfalak:aftab123@devconnector-koebl.mongodb.net/test?retryWrites=true&w=majority",
+  "port": "3900",
+  "requiresAuth": true
+}
