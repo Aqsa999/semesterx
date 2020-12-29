@@ -2,6 +2,7 @@ const winston = require("winston");
 const express = require("express");
 const config = require("config");
 const app = express();
+const path = require('path');
 //aajajaj
 
 require("./startup/logging")();
@@ -12,7 +13,6 @@ require("./startup/config")();
 require("./startup/validation")();
 var mongoose = require("mongoose");
 app.use(express.static(path.join(__dirname, "/client/build")));
-
 
 
 app.get('*',(req,res)=>{
