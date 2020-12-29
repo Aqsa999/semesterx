@@ -11,31 +11,15 @@ require("./startup/db")();
 require("./startup/config")();
 require("./startup/validation")();
 var mongoose = require("mongoose");
-
-// const connectDB = async () => {
-//   try {
-//     await mongoose.connect("mongodb+srv://aftabfalak:aftab123@devconnector-koebl.mongodb.net/aqsa99?retryWrites=true&w=majority", {
-//       useUnifiedTopology: true,
-//       useNewUrlParser: true,
-//       useCreateIndex:true,
-//       useFindAndModify:false
-//     });
-//     // console.log("mongoDB is connected");
-//     // socket.on("connection", socketConnection);
-//   } catch (error) {
-//     console.log(error.message);
-//     // exit process with failure
-//     // process.exit(1);
-//   }
-// };
-// connectDB();
-
-// mongoose.connect(
-//   `  mongodb+srv://vidlyuser:1234@cluster0.wqzvb.mongodb.net/Main?retryWrites=true&w=majority`,
-//   { useNewUrlParser: true, useUnifiedTopology: true }
-// );
+app.use(express.static(path.join(__dirname, "/client/build")));
 
 
+
+app.get('*',(req,res)=>{
+
+  app.use(express.static('client/bulid'))
+ res.sendFile(path.resolve(__dirname,'client','build','index.html'));
+})
 
 const port = process.env.PORT || config.get("port");
 const server = app.listen(port, () =>
